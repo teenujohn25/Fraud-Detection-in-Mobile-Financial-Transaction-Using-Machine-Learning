@@ -1,3 +1,6 @@
+## 📦 Full Project Download
+🔗 Google Drive: <[link](https://drive.google.com/drive/folders/1nMXTOgYcL4SxQM9rojQnWZZ-_oq8pFDM?usp=sharing)>
+
 📌 Fraud Detection Using Machine Learning
 Project Overview
 
